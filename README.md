@@ -1,10 +1,10 @@
-# The Cousins Restaurant
+# Barakah Bites
 
 ## Module 3 Assessment 2
 
 ### Description
 
-The Cousins Restaurant is a responsive online restaurant menu website developed as part of the IT Varsity Module 3 Assessment 2 project. The website allows customers to browse food categories, view menu items, read detailed meal descriptions, select extras, add special requests, and place orders through a simple and user-friendly interface.
+Barakah Bites is a restaurant menu website developed as part of the IT Varsity Module 3 Assessment 2 project. The website allows customers to browse food categories, view menu items, read detailed meal descriptions, select extras, add special requests, and place orders through a simple and user-friendly interface.
 
 ---
 
